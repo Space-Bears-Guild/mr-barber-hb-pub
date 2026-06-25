@@ -1,9 +1,11 @@
 # Competitive Analysis
+
 ## About
-Store name:
-Website link:
+
+Store name: | Website link:
 
 ## Analysis
+
 - Number of pages:
 - Kinds of pages:
   - a
@@ -14,14 +16,16 @@ Website link:
   - ...
 
 ### Measuring Work
-| Task | Scrolling effort (% of page) | Number of clicks | 
-| ---- | ---------------------------- | ---------------- |
-| Store location | | |
-| Pricing | | |
-| Appointment | | |
-| Contact information | | |
+
+| Task                | Scrolling effort (% of page) | Number of clicks |
+| ------------------- | ---------------------------- | ---------------- |
+| Store location      |                              |                  |
+| Pricing             |                              |                  |
+| Appointment         |                              |                  |
+| Contact information |                              |                  |
 
 Other comments/observations:
+
 - Store location
   - ...
 - Pricing
