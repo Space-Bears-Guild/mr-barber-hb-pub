@@ -2,7 +2,7 @@
 
 ## About
 
-Store name: | Website link:
+Store name: Ikigai Concept | Website link: https://www.ikigaiconcepthb.com/s/appointments
 
 ## Analysis
 
